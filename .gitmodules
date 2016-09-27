@@ -1,0 +1,3 @@
+[submodule "super/sub"]
+	path = super/sub
+	url = https://github.com/div88/sub.git
